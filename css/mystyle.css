@@ -1,0 +1,286 @@
+body{
+background-color: #f5f5f5;
+}
+
+.layui-logo{
+    display:inline-block;
+    margin-left: 60px;
+    margin-right: 40px;
+    vertical-align: middle;
+}
+
+.search{
+    display:inline-block;
+    vertical-align: middle;
+    margin-left:30px;
+}
+    .nav-search-icon {
+      display: inline-block;
+      background-image: url("../images/global-201802071838.svg");
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      background-position: 40.27% 99.55000000000001%;
+      background-size: 1512.5% 1500%;
+      background-repeat: no-repeat;
+    }
+    
+.nav-search-icon:hover {
+      display: inline-block;
+      background-image: url("../images/global-201802071838.svg");
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      background-position: 40.27% 99.55000000000001%;
+      background-size: 1612.5% 1600%;
+      background-repeat: no-repeat;
+    }
+    .nav-search-close-icon{
+      display: inline-block;
+      background-image: url("../images/global-201802071838.svg");
+      width: 16px;
+      height: 16px;
+      overflow: hidden;
+      text-indent: 10000px;
+      outline: 0;
+       cursor: pointer;
+      background-position: 65.49000000000001% 45.09%;
+      background-size: 1512.5% 1500%;
+      background-repeat: no-repeat;
+    }
+    .nav-search-close-icon:hover{
+      display: inline-block;
+      background-image: url("../images/global-201802071838.svg");
+      width: 16px;
+      height: 16px;
+      overflow: hidden;
+      text-indent: 10000px;
+      outline: 0;
+       cursor: pointer;
+      background-position: 65.49000000000001% 45.09%;
+      background-size: 1812.5% 1800%;
+      background-repeat: no-repeat;
+    }
+    
+ 
+.zhiding{
+	padding-left: 20px;
+}
+
+.test1{
+	background-color: #fff;padding-top:14px; ;padding-bottom: 14px;box-shadow: 10px 10px 5px #888888;
+}
+
+
+.widght{
+    text-align:center;
+  }
+.widght  li {
+    display:inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left:12px;
+    line-height: 38px;
+}
+
+.widght li a{
+  font-size:20px;
+}
+
+.weixin a {
+   color:green;
+}
+
+.weixin{
+    border:2px solid green;
+    border-radius:25px;
+    background-color:#fff;
+}
+ 
+.weixin:hover {
+    border-radius:25px;
+    background-color:green;
+    color:red;
+	cursor: pointer;
+}
+
+.weixin:hover a{
+    color:white;
+}
+
+.myqq a {
+   color:#2880FF;
+}
+
+.myqq{
+    border:2px solid #2880FF;
+    border-radius:25px;
+    background-color:#fff;
+}
+.myqq:hover {
+    border-radius:25px;
+    background-color:#2880FF;
+    color:red;
+    cursor: pointer;
+}
+.myqq:hover a{
+    color:white;
+}
+
+
+
+.weibo a {
+   color:#F05356;
+}
+
+.weibo{
+    border:2px solid #C20101;
+    border-radius:25px;
+    background-color:#fff;
+}
+
+
+ .weibo:hover {
+    border-radius:25px;
+    background-color:#C20101;
+    color:red;
+    cursor: pointer;
+}
+.weibo:hover a{
+    color:white;
+}
+
+.myrss a{
+  color:#FF9529;
+}
+
+.myrss{
+    border:2px solid #FF9529;
+    border-radius:25px;
+    background-color:#fff;
+}
+
+.myrss:hover {
+    border-radius:25px;
+    background-color:#FF9529;
+    color:red;
+    cursor: pointer;
+}
+.myrss:hover a{
+    color:white;
+}
+
+.sidebar-box {
+	  margin-left:44px;
+	  margin-top:20px;
+    margin-bottom: 15px;
+    border: 1px solid #eeeeee;
+    padding: 15px;
+    background-color: #fff;
+}
+.t-intro {
+    overflow: hidden;
+    height: 63px;
+    color: #757575;
+}
+.hcenter{
+	text-align: center;
+}
+
+/*main*/
+.content-box {
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #fff;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+
+
+.content-box:hover {
+	padding: 20px;
+	margin-top: 20px;
+	background-color: snow;
+	cursor: pointer;
+	box-shadow: 10px 10px 5px #888888;
+}
+.main{
+	margin-top: 20px;
+}
+@media screen and (max-width: 1000px) {
+    .myinfo{
+    	display: none;
+    }
+    .rightside{
+	   display: none;
+    }
+    //导航
+    #head{
+	display: none;
+    }
+}
+
+
+//left
+
+//main
+
+//侧边栏
+.sider{
+  margin-left:50px;
+  background-color:red;
+}
+.side-bar{
+  margin-top:20px;
+  background-color: snow;
+//  box-shadow: 12px 12px 13px #888888;
+   margin-bottom: 15px;
+    border: 1px solid #eeeeee;
+    padding: 15px;
+    background-color: #fff;
+}
+.mt30{
+	margin-top: 30px;
+}
+.mt10{
+	margin-top: 10px;
+}
+.t-img{
+	width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.user-info{
+{
+    padding-top: 85px;
+    text-align: center;
+    background: url(../images/1.jpg) center top no-repeat;
+}
+
+}
+
+
+// 日历css
+.f_calendar{padding:10px;padding-top:0}
+.f_calendar table{width:100%;text-align:center}
+.f_calendar .calendartop{font-size:15px;height:30px;line-height:30px}
+.f_calendar .calendartop tbody tr{border-bottom:0;color:#000}
+.f_calendar .calendartop tbody tr a{padding:0 5px;margin:0 5px;text-align:center;border-radius:2px;color:#000}
+.f_calendar .calendartop tbody tr a:hover{color:#999}
+.f_calendar .calendar table tfoot td,.f_calendar .calendar table thead th,.f_calendar .calendar tbody td{padding:5px 4px;border:1px solid #eee;background:#fcfcfc}
+
+.f_calendar .calendar .day{background:url(../images/calendar.gif) no-repeat center center}
+
+
+.f_calendar .calendar td:hover{background:#eee}
+
+// end日历css
+
+
+// lab
+
+.lab-group{
+	text-align: center;
+}
+
