@@ -8,9 +8,9 @@ function getnav($islogin=fasle,$user){
    <!-- 导航栏 -->
    <ul class="layui-nav" lay-filter="" id="mynav">
     <div class="layui-logo" style=" display:inline-block;"><img src="./images/fly.png" width="120px"></div>
-    <li class="layui-nav-item"><a href="">首页</a></li>
+    <li class="layui-nav-item"><a href="/">首页</a></li>
     <li class="layui-nav-item "><a href="/weiyu.php">微语</a></li>
-    <li class="layui-nav-item"><a href="">时间线</a></li>
+<!--    <li class="layui-nav-item"><a href="">时间线</a></li>-->
     <li class="layui-nav-item">
       <a href="javascript:;">文章分类</a>
       <dl class="layui-nav-child"> <!-- 二级菜单 -->

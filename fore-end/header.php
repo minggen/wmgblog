@@ -24,13 +24,13 @@
     <script type="text/javascript" src="layui/layui.js"></script>
     <script src="./js/jquery-3.3.1.js"></script>
     <script src="./js/wow.min.js"></script>
-    <script>XlchKey="40RdOHCvcQ";</script>
+<!--    <script>XlchKey="40RdOHCvcQ";</script>-->
 
     <!-- JQuery-mousewheel 3.1.9 -->
-    <script src="http://lib.baomitu.com/jquery-mousewheel/3.1.9/jquery.mousewheel.min.js"></script>
+<!--    <script src="http://lib.baomitu.com/jquery-mousewheel/3.1.9/jquery.mousewheel.min.js"></script>-->
     <!-- Scrollbar -->
-    <script src="http://static.badapple.top/BadApplePlayer/js/scrollbar.js"></script>
+<!--    <script src="http://static.badapple.top/BadApplePlayer/js/scrollbar.js"></script>-->
     <!-- BadApplePlayer -->
-    <script src="/js/music/music.js"></script>
+<!--    <script src="/js/music/music.js"></script>-->
 </head>
 
